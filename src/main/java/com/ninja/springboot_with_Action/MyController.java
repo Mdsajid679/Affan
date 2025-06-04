@@ -3,6 +3,7 @@ package com.ninja.springboot_with_Action;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+// this is test run
 @RestController
 public class MyController {
 	@RequestMapping("/test")
